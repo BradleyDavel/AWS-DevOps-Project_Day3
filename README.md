@@ -154,8 +154,3 @@ After compiling, I checked nextwork-devops-cicd repository and noticed it had po
 
 ---
 
-## Uploading My Own Packages
-
----
-
----
